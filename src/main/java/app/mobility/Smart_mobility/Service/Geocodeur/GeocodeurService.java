@@ -30,21 +30,21 @@ public class GeocodeurService {
         }
         return address;
     }
-    public String reverse(String latitude, String longitude) {
-        String address = "";
-        // Construction de l'URL pour la requête vers Nominatim
-        UriComponentsBuilder builder = UriComponentsBuilder.fromHttpUrl(nominatimUrl + "/reverse")
-                .queryParam("format", "json")
-                .queryParam("lat", latitude)
-                .queryParam("lon", longitude)
-                .queryParam("zoom", 18); // Zoom pour précision
-        // Effectuer la requête GET vers Nominatim
-        try {
-            address = restTemplate.getForObject(builder.toUriString(), String.class);
-        } catch (Exception e) {
-            // Gérer les erreurs de requête
-            e.printStackTrace();
-        }
-        return address;
-    }
+    // public String reverse(String latitude, String longitude) {
+    //     String address = "";
+    //     // Construction de l'URL pour la requête vers Nominatim
+    //     UriComponentsBuilder builder = UriComponentsBuilder.fromHttpUrl(nominatimUrl + "/reverse")
+    //             .queryParam("format", "json")
+    //             .queryParam("lat", latitude)
+    //             .queryParam("lon", longitude)
+    //             .queryParam("zoom", 18); // Zoom pour précision
+    //     // Effectuer la requête GET vers Nominatim
+    //     try {
+    //         address = restTemplate.getForObject(builder.toUriString(), String.class);
+    //     } catch (Exception e) {
+    //         // Gérer les erreurs de requête
+    //         e.printStackTrace();
+    //     }
+    //     return address;
+    // }
 }
