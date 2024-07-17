@@ -24,7 +24,7 @@ public class StationController {
     }
 
     // Endpoint pour récupérer une station par son nom
-    @GetMapping("/{name}")
+    @GetMapping("/name/{name}")
     public ResponseEntity<Station> getStationByName(@PathVariable String name) {
         Station station = stationService.getStationByName(name);
         if (station != null) {
@@ -33,14 +33,14 @@ public class StationController {
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
     }
-    @GetMapping("/{like}")
+    @GetMapping("/like/{like}")
     public ResponseEntity<Station> getStationByNameLike(@PathVariable String like) {
         List<Station> station = stationService.findByNameLike(like);
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);
     }
 
     // Endpoint pour récupérer toutes les stations
-    @GetMapping
+    @GetMapping("")
     public ResponseEntity<List<Station>> getAllStations() {
         List<Station> stations = stationService.getAllStations();
         return new ResponseEntity<>(stations, HttpStatus.OK);

@@ -127,7 +127,7 @@ class GetStation{
                         Station station = new Station();
                         station.setLigneID(properties.get("N° de la ligne").asText());
                         station.setStationID(properties.get("N° de station").asText());
-                        station.setName(properties.get("non de station").asText());
+                        station.setName(properties.get("Non de station").asText());
                         station.setType("Metro");
                         double longitude = coordinates.get(0).asDouble();
                         double latitude = coordinates.get(1).asDouble();
