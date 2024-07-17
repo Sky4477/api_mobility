@@ -1,0 +1,47 @@
+[
+    {
+        "Ligne": "460",
+        "Destination": "Mannouba",
+        "premier_depart_station": "05:30",
+        "dernier_depart_station": "20:30",
+        "premier_depart_banlieue": "05:55",
+        "dernier_depart_banlieue": "19:15",
+        "Fréquence": 30
+    },
+    {
+        "Ligne": "18",
+        "Destination": "Cité Mongi Slim",
+        "premier_depart_station": "05:00",
+        "dernier_depart_station": "21:30",
+        "premier_depart_banlieue": "05:30",
+        "dernier_depart_banlieue": "18:30",
+        "Fréquence": 100
+    },
+    {
+        "Ligne": "18B",
+        "Destination": "Sidi Salah",
+        "premier_depart_station": "05:50",
+        "dernier_depart_station": "21:10",
+        "premier_depart_banlieue": "06:00",
+        "dernier_depart_banlieue": "18:40",
+        "Fréquence": 30
+    },
+    {
+        "Ligne": "44A",
+        "Destination": "Kalaat Landalous",
+        "premier_depart_station": "06:00",
+        "dernier_depart_station": "19:50",
+        "premier_depart_banlieue": "06:00",
+        "dernier_depart_banlieue": "19:45",
+        "Fréquence": 40
+    },
+    {
+        "Ligne": "47A",
+        "Destination": "Manzeh 9",
+        "premier_depart_station": "06:30",
+        "dernier_depart_station": "19:50",
+        "premier_depart_banlieue": "06:30",
+        "dernier_depart_banlieue": "18:50",
+        "Fréquence": 40
+    }
+]

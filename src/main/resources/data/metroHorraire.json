@@ -1,0 +1,7751 @@
+[
+    {
+        "ligneID": "1",
+        "horaires_L_S": "03:58",
+        "Sens": "aller",
+        "horaires_D": "03:52",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "04:30",
+        "Sens": "aller",
+        "horaires_D": "04:25",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "05:00",
+        "Sens": "aller",
+        "horaires_D": "05:09",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "05:15",
+        "Sens": "aller",
+        "horaires_D": "05:26",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "05:32",
+        "Sens": "aller",
+        "horaires_D": "05:43",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "05:49",
+        "Sens": "aller",
+        "horaires_D": "06:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "06:06",
+        "Sens": "aller",
+        "horaires_D": "06:17",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "06:23",
+        "Sens": "aller",
+        "horaires_D": "06:34",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "06:40",
+        "Sens": "aller",
+        "horaires_D": "06:51",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "06:57",
+        "Sens": "aller",
+        "horaires_D": "07:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "07:14",
+        "Sens": "aller",
+        "horaires_D": "07:25",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "07:31",
+        "Sens": "aller",
+        "horaires_D": "07:42",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "07:48",
+        "Sens": "aller",
+        "horaires_D": "07:59",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "08:05",
+        "Sens": "aller",
+        "horaires_D": "08:16",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "08:22",
+        "Sens": "aller",
+        "horaires_D": "08:33",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "08:39",
+        "Sens": "aller",
+        "horaires_D": "08:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "08:56",
+        "Sens": "aller",
+        "horaires_D": "09:07",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "09:13",
+        "Sens": "aller",
+        "horaires_D": "09:24",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "09:30",
+        "Sens": "aller",
+        "horaires_D": "09:41",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "09:47",
+        "Sens": "aller",
+        "horaires_D": "09:58",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "10:04",
+        "Sens": "aller",
+        "horaires_D": "10:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "10:21",
+        "Sens": "aller",
+        "horaires_D": "10:32",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "10:38",
+        "Sens": "aller",
+        "horaires_D": "10:49",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "10:55",
+        "Sens": "aller",
+        "horaires_D": "11:06",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "11:12",
+        "Sens": "aller",
+        "horaires_D": "11:23",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "11:29",
+        "Sens": "aller",
+        "horaires_D": "11:40",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "11:46",
+        "Sens": "aller",
+        "horaires_D": "11:57",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "12:03",
+        "Sens": "aller",
+        "horaires_D": "12:14",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "12:20",
+        "Sens": "aller",
+        "horaires_D": "12:31",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "12:37",
+        "Sens": "aller",
+        "horaires_D": "12:48",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "12:54",
+        "Sens": "aller",
+        "horaires_D": "13:05",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "13:11",
+        "Sens": "aller",
+        "horaires_D": "13:22",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "13:28",
+        "Sens": "aller",
+        "horaires_D": "13:39",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "13:45",
+        "Sens": "aller",
+        "horaires_D": "13:56",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "14:02",
+        "Sens": "aller",
+        "horaires_D": "14:13",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "14:19",
+        "Sens": "aller",
+        "horaires_D": "14:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "14:36",
+        "Sens": "aller",
+        "horaires_D": "14:47",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "14:53",
+        "Sens": "aller",
+        "horaires_D": "15:04",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "15:10",
+        "Sens": "aller",
+        "horaires_D": "15:21",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "15:27",
+        "Sens": "aller",
+        "horaires_D": "15:38",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "15:44",
+        "Sens": "aller",
+        "horaires_D": "15:55",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "16:01",
+        "Sens": "aller",
+        "horaires_D": "16:12",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "16:18",
+        "Sens": "aller",
+        "horaires_D": "16:29",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "16:35",
+        "Sens": "aller",
+        "horaires_D": "16:46",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "16:52",
+        "Sens": "aller",
+        "horaires_D": "17:03",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "17:09",
+        "Sens": "aller",
+        "horaires_D": "17:20",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "17:26",
+        "Sens": "aller",
+        "horaires_D": "17:37",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "17:43",
+        "Sens": "aller",
+        "horaires_D": "17:54",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "18:00",
+        "Sens": "aller",
+        "horaires_D": "18:11",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "18:17",
+        "Sens": "aller",
+        "horaires_D": "18:28",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "18:34",
+        "Sens": "aller",
+        "horaires_D": "18:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "18:51",
+        "Sens": "aller",
+        "horaires_D": "19:02",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "19:08",
+        "Sens": "aller",
+        "horaires_D": "19:36",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "19:42",
+        "Sens": "aller",
+        "horaires_D": "20:10",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "20:16",
+        "Sens": "aller",
+        "horaires_D": "20:44",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "20:50",
+        "Sens": "aller",
+        "horaires_D": "21:52",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "21:58",
+        "Sens": "aller",
+        "horaires_D": "23:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "23:06",
+        "Sens": "aller",
+        "horaires_D": "05:24",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "04:30",
+        "Sens": "retour",
+        "horaires_D": "05:56",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "04:55",
+        "Sens": "retour",
+        "horaires_D": "06:11",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "05:28",
+        "Sens": "retour",
+        "horaires_D": "06:28",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "05:43",
+        "Sens": "retour",
+        "horaires_D": "06:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "06:00",
+        "Sens": "retour",
+        "horaires_D": "07:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "06:17",
+        "Sens": "retour",
+        "horaires_D": "07:19",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "06:34",
+        "Sens": "retour",
+        "horaires_D": "07:36",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "06:51",
+        "Sens": "retour",
+        "horaires_D": "07:53",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "07:08",
+        "Sens": "retour",
+        "horaires_D": "08:10",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "07:25",
+        "Sens": "retour",
+        "horaires_D": "08:27",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "07:42",
+        "Sens": "retour",
+        "horaires_D": "08:44",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "07:59",
+        "Sens": "retour",
+        "horaires_D": "09:01",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "08:16",
+        "Sens": "retour",
+        "horaires_D": "09:18",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "08:33",
+        "Sens": "retour",
+        "horaires_D": "09:35",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "08:50",
+        "Sens": "retour",
+        "horaires_D": "09:52",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "09:07",
+        "Sens": "retour",
+        "horaires_D": "10:09",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "09:24",
+        "Sens": "retour",
+        "horaires_D": "10:26",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "09:41",
+        "Sens": "retour",
+        "horaires_D": "10:43",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "09:58",
+        "Sens": "retour",
+        "horaires_D": "11:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "10:15",
+        "Sens": "retour",
+        "horaires_D": "11:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "10:32",
+        "Sens": "retour",
+        "horaires_D": "11:34",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "10:49",
+        "Sens": "retour",
+        "horaires_D": "11:51",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "11:06",
+        "Sens": "retour",
+        "horaires_D": "12:08",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "11:23",
+        "Sens": "retour",
+        "horaires_D": "12:25",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "11:40",
+        "Sens": "retour",
+        "horaires_D": "12:42",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "11:57",
+        "Sens": "retour",
+        "horaires_D": "12:59",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "12:14",
+        "Sens": "retour",
+        "horaires_D": "13:16",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "12:31",
+        "Sens": "retour",
+        "horaires_D": "13:33",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "12:48",
+        "Sens": "retour",
+        "horaires_D": "13:50",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "13:05",
+        "Sens": "retour",
+        "horaires_D": "14:07",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "13:22",
+        "Sens": "retour",
+        "horaires_D": "14:24",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "13:39",
+        "Sens": "retour",
+        "horaires_D": "14:41",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "13:56",
+        "Sens": "retour",
+        "horaires_D": "14:58",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "14:13",
+        "Sens": "retour",
+        "horaires_D": "15:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "14:30",
+        "Sens": "retour",
+        "horaires_D": "15:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "14:47",
+        "Sens": "retour",
+        "horaires_D": "15:49",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "15:04",
+        "Sens": "retour",
+        "horaires_D": "16:06",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "15:21",
+        "Sens": "retour",
+        "horaires_D": "16:23",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "15:38",
+        "Sens": "retour",
+        "horaires_D": "16:40",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "15:55",
+        "Sens": "retour",
+        "horaires_D": "16:57",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "16:12",
+        "Sens": "retour",
+        "horaires_D": "17:14",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "16:29",
+        "Sens": "retour",
+        "horaires_D": "17:31",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "16:46",
+        "Sens": "retour",
+        "horaires_D": "17:48",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "17:03",
+        "Sens": "retour",
+        "horaires_D": "18:05",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "17:20",
+        "Sens": "retour",
+        "horaires_D": "18:22",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "17:37",
+        "Sens": "retour",
+        "horaires_D": "18:39",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "17:54",
+        "Sens": "retour",
+        "horaires_D": "18:56",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "18:11",
+        "Sens": "retour",
+        "horaires_D": "19:13",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "18:28",
+        "Sens": "retour",
+        "horaires_D": "19:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "18:45",
+        "Sens": "retour",
+        "horaires_D": "19:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "19:02",
+        "Sens": "retour",
+        "horaires_D": "20:04",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "19:19",
+        "Sens": "retour",
+        "horaires_D": "20:38",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "19:36",
+        "Sens": "retour",
+        "horaires_D": "21:12",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "20:10",
+        "Sens": "retour",
+        "horaires_D": "21:46",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "20:44",
+        "Sens": "retour",
+        "horaires_D": "22:54",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "21:18",
+        "Sens": "retour",
+        "horaires_D": "00:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "22:26",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "1",
+        "horaires_L_S": "23:34",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "04:06",
+        "Sens": "aller",
+        "horaires_D": "04:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "04:36",
+        "Sens": "aller",
+        "horaires_D": "04:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "05:06",
+        "Sens": "aller",
+        "horaires_D": "05:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "05:36",
+        "Sens": "aller",
+        "horaires_D": "05:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "05:48",
+        "Sens": "aller",
+        "horaires_D": "05:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:00",
+        "Sens": "aller",
+        "horaires_D": "06:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:06",
+        "Sens": "aller",
+        "horaires_D": "06:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:12",
+        "Sens": "aller",
+        "horaires_D": "06:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:18",
+        "Sens": "aller",
+        "horaires_D": "06:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:24",
+        "Sens": "aller",
+        "horaires_D": "07:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:30",
+        "Sens": "aller",
+        "horaires_D": "07:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:36",
+        "Sens": "aller",
+        "horaires_D": "07:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:42",
+        "Sens": "aller",
+        "horaires_D": "07:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:48",
+        "Sens": "aller",
+        "horaires_D": "08:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:54",
+        "Sens": "aller",
+        "horaires_D": "08:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:00",
+        "Sens": "aller",
+        "horaires_D": "08:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:06",
+        "Sens": "aller",
+        "horaires_D": "08:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:12",
+        "Sens": "aller",
+        "horaires_D": "09:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:18",
+        "Sens": "aller",
+        "horaires_D": "09:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:24",
+        "Sens": "aller",
+        "horaires_D": "09:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:30",
+        "Sens": "aller",
+        "horaires_D": "09:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:36",
+        "Sens": "aller",
+        "horaires_D": "10:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:42",
+        "Sens": "aller",
+        "horaires_D": "10:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:48",
+        "Sens": "aller",
+        "horaires_D": "10:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:54",
+        "Sens": "aller",
+        "horaires_D": "10:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:00",
+        "Sens": "aller",
+        "horaires_D": "11:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:06",
+        "Sens": "aller",
+        "horaires_D": "11:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:12",
+        "Sens": "aller",
+        "horaires_D": "11:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:18",
+        "Sens": "aller",
+        "horaires_D": "11:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:24",
+        "Sens": "aller",
+        "horaires_D": "12:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:30",
+        "Sens": "aller",
+        "horaires_D": "12:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:36",
+        "Sens": "aller",
+        "horaires_D": "12:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:42",
+        "Sens": "aller",
+        "horaires_D": "12:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:48",
+        "Sens": "aller",
+        "horaires_D": "13:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:54",
+        "Sens": "aller",
+        "horaires_D": "13:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:00",
+        "Sens": "aller",
+        "horaires_D": "13:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:08",
+        "Sens": "aller",
+        "horaires_D": "13:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:16",
+        "Sens": "aller",
+        "horaires_D": "14:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:24",
+        "Sens": "aller",
+        "horaires_D": "14:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:32",
+        "Sens": "aller",
+        "horaires_D": "14:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:40",
+        "Sens": "aller",
+        "horaires_D": "14:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:48",
+        "Sens": "aller",
+        "horaires_D": "15:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:56",
+        "Sens": "aller",
+        "horaires_D": "15:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:04",
+        "Sens": "aller",
+        "horaires_D": "15:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:12",
+        "Sens": "aller",
+        "horaires_D": "15:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:20",
+        "Sens": "aller",
+        "horaires_D": "16:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:28",
+        "Sens": "aller",
+        "horaires_D": "16:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:36",
+        "Sens": "aller",
+        "horaires_D": "16:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:44",
+        "Sens": "aller",
+        "horaires_D": "16:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:52",
+        "Sens": "aller",
+        "horaires_D": "17:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:00",
+        "Sens": "aller",
+        "horaires_D": "17:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:08",
+        "Sens": "aller",
+        "horaires_D": "17:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:16",
+        "Sens": "aller",
+        "horaires_D": "17:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:24",
+        "Sens": "aller",
+        "horaires_D": "18:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:32",
+        "Sens": "aller",
+        "horaires_D": "18:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:40",
+        "Sens": "aller",
+        "horaires_D": "18:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:48",
+        "Sens": "aller",
+        "horaires_D": "18:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:56",
+        "Sens": "aller",
+        "horaires_D": "19:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:04",
+        "Sens": "aller",
+        "horaires_D": "19:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:12",
+        "Sens": "aller",
+        "horaires_D": "19:40",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:20",
+        "Sens": "aller",
+        "horaires_D": "20:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:28",
+        "Sens": "aller",
+        "horaires_D": "20:40",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:36",
+        "Sens": "aller",
+        "horaires_D": "21:10",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:44",
+        "Sens": "aller",
+        "horaires_D": "21:40",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:52",
+        "Sens": "aller",
+        "horaires_D": "22:13",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:00",
+        "Sens": "aller",
+        "horaires_D": "22:43",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:08",
+        "Sens": "aller",
+        "horaires_D": "23:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:16",
+        "Sens": "aller",
+        "horaires_D": "04:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:24",
+        "Sens": "aller",
+        "horaires_D": "05:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:32",
+        "Sens": "aller",
+        "horaires_D": "05:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:40",
+        "Sens": "aller",
+        "horaires_D": "05:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:48",
+        "Sens": "aller",
+        "horaires_D": "05:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:56",
+        "Sens": "aller",
+        "horaires_D": "06:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:04",
+        "Sens": "aller",
+        "horaires_D": "06:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:12",
+        "Sens": "aller",
+        "horaires_D": "06:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:20",
+        "Sens": "aller",
+        "horaires_D": "06:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:28",
+        "Sens": "aller",
+        "horaires_D": "07:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:36",
+        "Sens": "aller",
+        "horaires_D": "07:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:44",
+        "Sens": "aller",
+        "horaires_D": "07:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:52",
+        "Sens": "aller",
+        "horaires_D": "07:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:00",
+        "Sens": "aller",
+        "horaires_D": "08:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:08",
+        "Sens": "aller",
+        "horaires_D": "08:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:16",
+        "Sens": "aller",
+        "horaires_D": "08:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:24",
+        "Sens": "aller",
+        "horaires_D": "08:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:32",
+        "Sens": "aller",
+        "horaires_D": "09:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:40",
+        "Sens": "aller",
+        "horaires_D": "09:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:48",
+        "Sens": "aller",
+        "horaires_D": "09:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:56",
+        "Sens": "aller",
+        "horaires_D": "09:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:04",
+        "Sens": "aller",
+        "horaires_D": "10:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:10",
+        "Sens": "aller",
+        "horaires_D": "10:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:16",
+        "Sens": "aller",
+        "horaires_D": "10:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:22",
+        "Sens": "aller",
+        "horaires_D": "10:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:28",
+        "Sens": "aller",
+        "horaires_D": "11:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:34",
+        "Sens": "aller",
+        "horaires_D": "11:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:40",
+        "Sens": "aller",
+        "horaires_D": "11:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:46",
+        "Sens": "aller",
+        "horaires_D": "11:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:52",
+        "Sens": "aller",
+        "horaires_D": "12:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:58",
+        "Sens": "aller",
+        "horaires_D": "12:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:04",
+        "Sens": "aller",
+        "horaires_D": "12:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:10",
+        "Sens": "aller",
+        "horaires_D": "12:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:16",
+        "Sens": "aller",
+        "horaires_D": "13:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:22",
+        "Sens": "aller",
+        "horaires_D": "13:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:28",
+        "Sens": "aller",
+        "horaires_D": "13:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:34",
+        "Sens": "aller",
+        "horaires_D": "13:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:40",
+        "Sens": "aller",
+        "horaires_D": "14:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:46",
+        "Sens": "aller",
+        "horaires_D": "14:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:52",
+        "Sens": "aller",
+        "horaires_D": "14:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:58",
+        "Sens": "aller",
+        "horaires_D": "14:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:04",
+        "Sens": "aller",
+        "horaires_D": "15:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:10",
+        "Sens": "aller",
+        "horaires_D": "15:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:16",
+        "Sens": "aller",
+        "horaires_D": "15:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:22",
+        "Sens": "aller",
+        "horaires_D": "15:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:28",
+        "Sens": "aller",
+        "horaires_D": "16:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:34",
+        "Sens": "aller",
+        "horaires_D": "16:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:40",
+        "Sens": "aller",
+        "horaires_D": "16:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:46",
+        "Sens": "aller",
+        "horaires_D": "16:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:52",
+        "Sens": "aller",
+        "horaires_D": "17:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:58",
+        "Sens": "aller",
+        "horaires_D": "17:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "19:04",
+        "Sens": "aller",
+        "horaires_D": "17:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "19:16",
+        "Sens": "aller",
+        "horaires_D": "17:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "19:31",
+        "Sens": "aller",
+        "horaires_D": "18:02",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "19:46",
+        "Sens": "aller",
+        "horaires_D": "18:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "20:14",
+        "Sens": "aller",
+        "horaires_D": "18:32",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "20:42",
+        "Sens": "aller",
+        "horaires_D": "18:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "21:14",
+        "Sens": "aller",
+        "horaires_D": "19:12",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "21:42",
+        "Sens": "aller",
+        "horaires_D": "19:40",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "22:14",
+        "Sens": "aller",
+        "horaires_D": "20:12",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "22:42",
+        "Sens": "aller",
+        "horaires_D": "20:42",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "23:14",
+        "Sens": "aller",
+        "horaires_D": "21:12",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "04:32",
+        "Sens": "retour",
+        "horaires_D": "21:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "05:02",
+        "Sens": "retour",
+        "horaires_D": "22:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "05:14",
+        "Sens": "retour",
+        "horaires_D": "22:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "05:26",
+        "Sens": "retour",
+        "horaires_D": "23:20",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "05:32",
+        "Sens": "retour",
+        "horaires_D": "23:50",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "05:38",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "05:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "05:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:02",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:14",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:26",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:38",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:50",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "06:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:02",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:14",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:26",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:38",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:50",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "07:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:02",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:14",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:26",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:38",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:50",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "08:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:14",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:26",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "09:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "10:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:28",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "11:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "12:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:28",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "13:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "14:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:28",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "15:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:06",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:18",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:30",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:42",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "16:54",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:06",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:18",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:30",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:42",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "17:54",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:06",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:18",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:30",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:42",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "18:57",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "19:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "19:35",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "20:10",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "20:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "21:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "21:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "22:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "22:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "23:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "2",
+        "horaires_L_S": "23:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "05:20",
+        "Sens": "aller",
+        "horaires_D": "05:20",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "05:45",
+        "Sens": "aller",
+        "horaires_D": "05:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "06:10",
+        "Sens": "aller",
+        "horaires_D": "06:10",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "06:35",
+        "Sens": "aller",
+        "horaires_D": "06:35",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "07:00",
+        "Sens": "aller",
+        "horaires_D": "07:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "07:25",
+        "Sens": "aller",
+        "horaires_D": "07:25",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "07:50",
+        "Sens": "aller",
+        "horaires_D": "07:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "08:15",
+        "Sens": "aller",
+        "horaires_D": "08:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "08:40",
+        "Sens": "aller",
+        "horaires_D": "08:40",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "09:05",
+        "Sens": "aller",
+        "horaires_D": "09:05",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "09:30",
+        "Sens": "aller",
+        "horaires_D": "09:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "09:55",
+        "Sens": "aller",
+        "horaires_D": "09:55",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "10:20",
+        "Sens": "aller",
+        "horaires_D": "10:20",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "10:45",
+        "Sens": "aller",
+        "horaires_D": "10:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "11:10",
+        "Sens": "aller",
+        "horaires_D": "11:10",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "11:35",
+        "Sens": "aller",
+        "horaires_D": "11:35",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "12:00",
+        "Sens": "aller",
+        "horaires_D": "12:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "12:25",
+        "Sens": "aller",
+        "horaires_D": "12:25",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "12:50",
+        "Sens": "aller",
+        "horaires_D": "12:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "13:15",
+        "Sens": "aller",
+        "horaires_D": "13:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "13:40",
+        "Sens": "aller",
+        "horaires_D": "13:40",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "14:05",
+        "Sens": "aller",
+        "horaires_D": "14:05",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "14:30",
+        "Sens": "aller",
+        "horaires_D": "14:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "14:55",
+        "Sens": "aller",
+        "horaires_D": "14:55",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "15:20",
+        "Sens": "aller",
+        "horaires_D": "15:20",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "15:45",
+        "Sens": "aller",
+        "horaires_D": "15:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "16:10",
+        "Sens": "aller",
+        "horaires_D": "16:10",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "16:35",
+        "Sens": "aller",
+        "horaires_D": "16:35",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "17:00",
+        "Sens": "aller",
+        "horaires_D": "17:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "17:25",
+        "Sens": "aller",
+        "horaires_D": "17:25",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "17:50",
+        "Sens": "aller",
+        "horaires_D": "17:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "18:15",
+        "Sens": "aller",
+        "horaires_D": "18:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "18:40",
+        "Sens": "aller",
+        "horaires_D": "18:40",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "19:05",
+        "Sens": "aller",
+        "horaires_D": "19:05",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "19:30",
+        "Sens": "aller",
+        "horaires_D": "19:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "20:00",
+        "Sens": "aller",
+        "horaires_D": "20:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "05:59",
+        "Sens": "retour",
+        "horaires_D": "05:59",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "06:24",
+        "Sens": "retour",
+        "horaires_D": "06:24",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "06:49",
+        "Sens": "retour",
+        "horaires_D": "06:49",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "07:14",
+        "Sens": "retour",
+        "horaires_D": "07:14",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "07:39",
+        "Sens": "retour",
+        "horaires_D": "07:39",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "08:04",
+        "Sens": "retour",
+        "horaires_D": "08:04",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "08:29",
+        "Sens": "retour",
+        "horaires_D": "08:29",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "08:54",
+        "Sens": "retour",
+        "horaires_D": "08:54",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "09:19",
+        "Sens": "retour",
+        "horaires_D": "09:19",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "09:44",
+        "Sens": "retour",
+        "horaires_D": "09:44",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "10:09",
+        "Sens": "retour",
+        "horaires_D": "10:09",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "10:34",
+        "Sens": "retour",
+        "horaires_D": "10:34",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "10:59",
+        "Sens": "retour",
+        "horaires_D": "10:59",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "11:24",
+        "Sens": "retour",
+        "horaires_D": "11:24",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "11:49",
+        "Sens": "retour",
+        "horaires_D": "11:49",
+        "sens": "aller"
+    },
+    {
+        "lignID": "3",
+        "horaires_L_S": "12:14",
+        "Sens": "retour",
+        "horaires_D": "12:14",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "12:39",
+        "Sens": "retour",
+        "horaires_D": "12:39",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "13:04",
+        "Sens": "retour",
+        "horaires_D": "13:04",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "13:29",
+        "Sens": "retour",
+        "horaires_D": "13:29",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "13:54",
+        "Sens": "retour",
+        "horaires_D": "13:54",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "14:19",
+        "Sens": "retour",
+        "horaires_D": "14:19",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "14:44",
+        "Sens": "retour",
+        "horaires_D": "14:44",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "15:09",
+        "Sens": "retour",
+        "horaires_D": "15:09",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "15:34",
+        "Sens": "retour",
+        "horaires_D": "15:34",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "15:59",
+        "Sens": "retour",
+        "horaires_D": "15:59",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "16:24",
+        "Sens": "retour",
+        "horaires_D": "16:24",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "16:49",
+        "Sens": "retour",
+        "horaires_D": "16:49",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "17:14",
+        "Sens": "retour",
+        "horaires_D": "17:14",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "17:39",
+        "Sens": "retour",
+        "horaires_D": "17:39",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "18:04",
+        "Sens": "retour",
+        "horaires_D": "18:04",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "18:29",
+        "Sens": "retour",
+        "horaires_D": "18:29",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "18:54",
+        "Sens": "retour",
+        "horaires_D": "18:54",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "19:19",
+        "Sens": "retour",
+        "horaires_D": "19:19",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "19:44",
+        "Sens": "retour",
+        "horaires_D": "19:44",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "20:09",
+        "Sens": "retour",
+        "horaires_D": "20:09",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "3",
+        "horaires_L_S": "20:39",
+        "Sens": "retour",
+        "horaires_D": "20:39",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "03:48",
+        "Sens": "aller",
+        "horaires_D": "03:18",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "03:59",
+        "Sens": "aller",
+        "horaires_D": "04:33",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "04:40",
+        "Sens": "aller",
+        "horaires_D": "05:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "04:54",
+        "Sens": "aller",
+        "horaires_D": "05:23",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "04:58",
+        "Sens": "aller",
+        "horaires_D": "05:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:02",
+        "Sens": "aller",
+        "horaires_D": "06:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:06",
+        "Sens": "aller",
+        "horaires_D": "06:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:08",
+        "Sens": "aller",
+        "horaires_D": "06:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:16",
+        "Sens": "aller",
+        "horaires_D": "06:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:24",
+        "Sens": "aller",
+        "horaires_D": "07:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:32",
+        "Sens": "aller",
+        "horaires_D": "07:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:40",
+        "Sens": "aller",
+        "horaires_D": "07:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:48",
+        "Sens": "aller",
+        "horaires_D": "07:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:56",
+        "Sens": "aller",
+        "horaires_D": "08:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:04",
+        "Sens": "aller",
+        "horaires_D": "08:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:12",
+        "Sens": "aller",
+        "horaires_D": "08:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:20",
+        "Sens": "aller",
+        "horaires_D": "08:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:28",
+        "Sens": "aller",
+        "horaires_D": "09:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:36",
+        "Sens": "aller",
+        "horaires_D": "09:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:44",
+        "Sens": "aller",
+        "horaires_D": "09:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:52",
+        "Sens": "aller",
+        "horaires_D": "09:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:00",
+        "Sens": "aller",
+        "horaires_D": "10:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:08",
+        "Sens": "aller",
+        "horaires_D": "10:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:16",
+        "Sens": "aller",
+        "horaires_D": "10:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:24",
+        "Sens": "aller",
+        "horaires_D": "10:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:32",
+        "Sens": "aller",
+        "horaires_D": "11:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:40",
+        "Sens": "aller",
+        "horaires_D": "11:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:48",
+        "Sens": "aller",
+        "horaires_D": "11:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:56",
+        "Sens": "aller",
+        "horaires_D": "11:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:04",
+        "Sens": "aller",
+        "horaires_D": "12:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:12",
+        "Sens": "aller",
+        "horaires_D": "12:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:20",
+        "Sens": "aller",
+        "horaires_D": "12:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:28",
+        "Sens": "aller",
+        "horaires_D": "12:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:36",
+        "Sens": "aller",
+        "horaires_D": "13:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:44",
+        "Sens": "aller",
+        "horaires_D": "13:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:52",
+        "Sens": "aller",
+        "horaires_D": "13:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:00",
+        "Sens": "aller",
+        "horaires_D": "13:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:08",
+        "Sens": "aller",
+        "horaires_D": "14:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:16",
+        "Sens": "aller",
+        "horaires_D": "14:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:24",
+        "Sens": "aller",
+        "horaires_D": "14:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:32",
+        "Sens": "aller",
+        "horaires_D": "14:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:40",
+        "Sens": "aller",
+        "horaires_D": "15:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:48",
+        "Sens": "aller",
+        "horaires_D": "15:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:56",
+        "Sens": "aller",
+        "horaires_D": "15:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:04",
+        "Sens": "aller",
+        "horaires_D": "15:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:12",
+        "Sens": "aller",
+        "horaires_D": "16:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:20",
+        "Sens": "aller",
+        "horaires_D": "16:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:28",
+        "Sens": "aller",
+        "horaires_D": "16:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:36",
+        "Sens": "aller",
+        "horaires_D": "16:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:44",
+        "Sens": "aller",
+        "horaires_D": "17:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:52",
+        "Sens": "aller",
+        "horaires_D": "17:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:00",
+        "Sens": "aller",
+        "horaires_D": "17:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:08",
+        "Sens": "aller",
+        "horaires_D": "17:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:16",
+        "Sens": "aller",
+        "horaires_D": "18:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:24",
+        "Sens": "aller",
+        "horaires_D": "18:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:32",
+        "Sens": "aller",
+        "horaires_D": "18:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:40",
+        "Sens": "aller",
+        "horaires_D": "18:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:48",
+        "Sens": "aller",
+        "horaires_D": "19:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:56",
+        "Sens": "aller",
+        "horaires_D": "19:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:04",
+        "Sens": "aller",
+        "horaires_D": "19:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:12",
+        "Sens": "aller",
+        "horaires_D": "19:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:20",
+        "Sens": "aller",
+        "horaires_D": "20:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:28",
+        "Sens": "aller",
+        "horaires_D": "20:38",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:36",
+        "Sens": "aller",
+        "horaires_D": "21:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:44",
+        "Sens": "aller",
+        "horaires_D": "22:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:52",
+        "Sens": "aller",
+        "horaires_D": "23:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:00",
+        "Sens": "aller",
+        "horaires_D": "04:05",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:08",
+        "Sens": "aller",
+        "horaires_D": "05:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:16",
+        "Sens": "aller",
+        "horaires_D": "06:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:24",
+        "Sens": "aller",
+        "horaires_D": "06:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:32",
+        "Sens": "aller",
+        "horaires_D": "06:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:40",
+        "Sens": "aller",
+        "horaires_D": "07:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:48",
+        "Sens": "aller",
+        "horaires_D": "07:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:56",
+        "Sens": "aller",
+        "horaires_D": "07:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:04",
+        "Sens": "aller",
+        "horaires_D": "07:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:12",
+        "Sens": "aller",
+        "horaires_D": "08:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:20",
+        "Sens": "aller",
+        "horaires_D": "08:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:28",
+        "Sens": "aller",
+        "horaires_D": "08:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:36",
+        "Sens": "aller",
+        "horaires_D": "08:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:44",
+        "Sens": "aller",
+        "horaires_D": "09:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:52",
+        "Sens": "aller",
+        "horaires_D": "09:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:00",
+        "Sens": "aller",
+        "horaires_D": "09:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:08",
+        "Sens": "aller",
+        "horaires_D": "09:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:16",
+        "Sens": "aller",
+        "horaires_D": "10:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:24",
+        "Sens": "aller",
+        "horaires_D": "10:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:32",
+        "Sens": "aller",
+        "horaires_D": "10:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:40",
+        "Sens": "aller",
+        "horaires_D": "10:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:48",
+        "Sens": "aller",
+        "horaires_D": "11:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:56",
+        "Sens": "aller",
+        "horaires_D": "11:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:04",
+        "Sens": "aller",
+        "horaires_D": "11:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:12",
+        "Sens": "aller",
+        "horaires_D": "11:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:20",
+        "Sens": "aller",
+        "horaires_D": "12:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:28",
+        "Sens": "aller",
+        "horaires_D": "12:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:36",
+        "Sens": "aller",
+        "horaires_D": "12:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:44",
+        "Sens": "aller",
+        "horaires_D": "12:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:52",
+        "Sens": "aller",
+        "horaires_D": "13:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:00",
+        "Sens": "aller",
+        "horaires_D": "13:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:08",
+        "Sens": "aller",
+        "horaires_D": "13:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:16",
+        "Sens": "aller",
+        "horaires_D": "13:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:24",
+        "Sens": "aller",
+        "horaires_D": "14:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:32",
+        "Sens": "aller",
+        "horaires_D": "14:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:40",
+        "Sens": "aller",
+        "horaires_D": "14:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:48",
+        "Sens": "aller",
+        "horaires_D": "14:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:56",
+        "Sens": "aller",
+        "horaires_D": "15:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:04",
+        "Sens": "aller",
+        "horaires_D": "15:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:12",
+        "Sens": "aller",
+        "horaires_D": "15:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:20",
+        "Sens": "aller",
+        "horaires_D": "15:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:28",
+        "Sens": "aller",
+        "horaires_D": "16:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:36",
+        "Sens": "aller",
+        "horaires_D": "16:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:44",
+        "Sens": "aller",
+        "horaires_D": "16:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:52",
+        "Sens": "aller",
+        "horaires_D": "16:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:00",
+        "Sens": "aller",
+        "horaires_D": "17:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:12",
+        "Sens": "aller",
+        "horaires_D": "17:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:24",
+        "Sens": "aller",
+        "horaires_D": "17:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:48",
+        "Sens": "aller",
+        "horaires_D": "17:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "20:08",
+        "Sens": "aller",
+        "horaires_D": "18:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "20:38",
+        "Sens": "aller",
+        "horaires_D": "18:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "21:23",
+        "Sens": "aller",
+        "horaires_D": "18:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "22:13",
+        "Sens": "aller",
+        "horaires_D": "18:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "23:08",
+        "Sens": "aller",
+        "horaires_D": "19:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "04:23",
+        "Sens": "retour",
+        "horaires_D": "19:23",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:02",
+        "Sens": "retour",
+        "horaires_D": "19:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:14",
+        "Sens": "retour",
+        "horaires_D": "19:53",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:32",
+        "Sens": "retour",
+        "horaires_D": "20:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:40",
+        "Sens": "retour",
+        "horaires_D": "20:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "05:56",
+        "Sens": "retour",
+        "horaires_D": "20:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:04",
+        "Sens": "retour",
+        "horaires_D": "20:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:12",
+        "Sens": "retour",
+        "horaires_D": "20:56",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:20",
+        "Sens": "retour",
+        "horaires_D": "21:25",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:28",
+        "Sens": "retour",
+        "horaires_D": "22:16",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:36",
+        "Sens": "retour",
+        "horaires_D": "23:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:44",
+        "Sens": "retour",
+        "horaires_D": "00:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "06:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "07:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:28",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "08:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "09:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:28",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "10:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "11:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:28",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "12:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "13:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:28",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "14:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "15:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:28",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:36",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "16:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:00",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "17:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:12",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:20",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:28",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:44",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "18:52",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:08",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:24",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:28",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:40",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:48",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "19:56",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "20:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "20:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "20:34",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "20:51",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "21:11",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "21:41",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "22:26",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "23:16",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "4",
+        "horaires_L_S": "00:11",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "03:49",
+        "Sens": "aller",
+        "horaires_D": "04:09",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "04:31",
+        "Sens": "aller",
+        "horaires_D": "04:57",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "04:51",
+        "Sens": "aller",
+        "horaires_D": "05:20",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "05:00",
+        "Sens": "aller",
+        "horaires_D": "05:33",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "05:19",
+        "Sens": "aller",
+        "horaires_D": "05:51",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "05:29",
+        "Sens": "aller",
+        "horaires_D": "06:09",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "05:37",
+        "Sens": "aller",
+        "horaires_D": "06:27",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "05:45",
+        "Sens": "aller",
+        "horaires_D": "06:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "05:53",
+        "Sens": "aller",
+        "horaires_D": "07:03",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:01",
+        "Sens": "aller",
+        "horaires_D": "07:21",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:09",
+        "Sens": "aller",
+        "horaires_D": "07:39",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:17",
+        "Sens": "aller",
+        "horaires_D": "07:57",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:25",
+        "Sens": "aller",
+        "horaires_D": "08:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:33",
+        "Sens": "aller",
+        "horaires_D": "08:33",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:41",
+        "Sens": "aller",
+        "horaires_D": "08:51",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:49",
+        "Sens": "aller",
+        "horaires_D": "09:09",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:57",
+        "Sens": "aller",
+        "horaires_D": "09:27",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:05",
+        "Sens": "aller",
+        "horaires_D": "09:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:13",
+        "Sens": "aller",
+        "horaires_D": "10:03",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:21",
+        "Sens": "aller",
+        "horaires_D": "10:21",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:29",
+        "Sens": "aller",
+        "horaires_D": "10:39",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:37",
+        "Sens": "aller",
+        "horaires_D": "10:57",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:45",
+        "Sens": "aller",
+        "horaires_D": "11:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:53",
+        "Sens": "aller",
+        "horaires_D": "11:33",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:01",
+        "Sens": "aller",
+        "horaires_D": "11:51",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:09",
+        "Sens": "aller",
+        "horaires_D": "12:09",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:17",
+        "Sens": "aller",
+        "horaires_D": "12:27",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:25",
+        "Sens": "aller",
+        "horaires_D": "12:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:33",
+        "Sens": "aller",
+        "horaires_D": "13:03",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:41",
+        "Sens": "aller",
+        "horaires_D": "13:21",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:49",
+        "Sens": "aller",
+        "horaires_D": "13:39",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:05",
+        "Sens": "aller",
+        "horaires_D": "13:57",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:17",
+        "Sens": "aller",
+        "horaires_D": "14:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:29",
+        "Sens": "aller",
+        "horaires_D": "14:33",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:41",
+        "Sens": "aller",
+        "horaires_D": "14:51",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:53",
+        "Sens": "aller",
+        "horaires_D": "15:09",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "10:05",
+        "Sens": "aller",
+        "horaires_D": "15:27",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "10:17",
+        "Sens": "aller",
+        "horaires_D": "15:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "10:29",
+        "Sens": "aller",
+        "horaires_D": "16:03",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "10:41",
+        "Sens": "aller",
+        "horaires_D": "16:21",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "10:53",
+        "Sens": "aller",
+        "horaires_D": "16:39",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "11:05",
+        "Sens": "aller",
+        "horaires_D": "16:59",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "11:17",
+        "Sens": "aller",
+        "horaires_D": "17:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "11:29",
+        "Sens": "aller",
+        "horaires_D": "17:33",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "11:41",
+        "Sens": "aller",
+        "horaires_D": "17:51",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "11:53",
+        "Sens": "aller",
+        "horaires_D": "18:09",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:05",
+        "Sens": "aller",
+        "horaires_D": "18:27",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:13",
+        "Sens": "aller",
+        "horaires_D": "18:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:21",
+        "Sens": "aller",
+        "horaires_D": "19:03",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:29",
+        "Sens": "aller",
+        "horaires_D": "19:21",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:37",
+        "Sens": "aller",
+        "horaires_D": "19:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:45",
+        "Sens": "aller",
+        "horaires_D": "20:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:53",
+        "Sens": "aller",
+        "horaires_D": "20:38",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:01",
+        "Sens": "aller",
+        "horaires_D": "21:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:09",
+        "Sens": "aller",
+        "horaires_D": "22:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:17",
+        "Sens": "aller",
+        "horaires_D": "23:16",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:25",
+        "Sens": "aller",
+        "horaires_D": "04:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:33",
+        "Sens": "aller",
+        "horaires_D": "05:36",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:41",
+        "Sens": "aller",
+        "horaires_D": "05:54",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:49",
+        "Sens": "aller",
+        "horaires_D": "06:12",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:57",
+        "Sens": "aller",
+        "horaires_D": "06:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:05",
+        "Sens": "aller",
+        "horaires_D": "06:48",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:13",
+        "Sens": "aller",
+        "horaires_D": "07:06",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:21",
+        "Sens": "aller",
+        "horaires_D": "07:24",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:29",
+        "Sens": "aller",
+        "horaires_D": "07:42",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:37",
+        "Sens": "aller",
+        "horaires_D": "08:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:45",
+        "Sens": "aller",
+        "horaires_D": "08:18",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:53",
+        "Sens": "aller",
+        "horaires_D": "08:36",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:01",
+        "Sens": "aller",
+        "horaires_D": "08:54",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:09",
+        "Sens": "aller",
+        "horaires_D": "09:12",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:17",
+        "Sens": "aller",
+        "horaires_D": "09:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:25",
+        "Sens": "aller",
+        "horaires_D": "09:48",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:33",
+        "Sens": "aller",
+        "horaires_D": "10:06",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:41",
+        "Sens": "aller",
+        "horaires_D": "10:24",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:49",
+        "Sens": "aller",
+        "horaires_D": "10:42",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:57",
+        "Sens": "aller",
+        "horaires_D": "11:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:05",
+        "Sens": "aller",
+        "horaires_D": "11:18",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:13",
+        "Sens": "aller",
+        "horaires_D": "11:36",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:21",
+        "Sens": "aller",
+        "horaires_D": "11:54",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:29",
+        "Sens": "aller",
+        "horaires_D": "12:12",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:37",
+        "Sens": "aller",
+        "horaires_D": "12:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:45",
+        "Sens": "aller",
+        "horaires_D": "12:48",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:53",
+        "Sens": "aller",
+        "horaires_D": "13:06",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:01",
+        "Sens": "aller",
+        "horaires_D": "13:24",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:09",
+        "Sens": "aller",
+        "horaires_D": "13:42",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:17",
+        "Sens": "aller",
+        "horaires_D": "14:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:25",
+        "Sens": "aller",
+        "horaires_D": "14:18",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:33",
+        "Sens": "aller",
+        "horaires_D": "14:36",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:41",
+        "Sens": "aller",
+        "horaires_D": "14:54",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:49",
+        "Sens": "aller",
+        "horaires_D": "15:12",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:57",
+        "Sens": "aller",
+        "horaires_D": "15:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:05",
+        "Sens": "aller",
+        "horaires_D": "15:48",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:13",
+        "Sens": "aller",
+        "horaires_D": "16:06",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:21",
+        "Sens": "aller",
+        "horaires_D": "16:24",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:29",
+        "Sens": "aller",
+        "horaires_D": "16:42",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:37",
+        "Sens": "aller",
+        "horaires_D": "17:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:45",
+        "Sens": "aller",
+        "horaires_D": "17:18",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:53",
+        "Sens": "aller",
+        "horaires_D": "17:36",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "19:01",
+        "Sens": "aller",
+        "horaires_D": "17:54",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "19:17",
+        "Sens": "aller",
+        "horaires_D": "18:12",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "19:33",
+        "Sens": "aller",
+        "horaires_D": "18:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "19:49",
+        "Sens": "aller",
+        "horaires_D": "18:48",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "20:08",
+        "Sens": "aller",
+        "horaires_D": "19:06",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "20:38",
+        "Sens": "aller",
+        "horaires_D": "19:35",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "21:08",
+        "Sens": "aller",
+        "horaires_D": "19:42",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "22:08",
+        "Sens": "aller",
+        "horaires_D": "20:05",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "23:15",
+        "Sens": "aller",
+        "horaires_D": "20:35",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "04:26",
+        "Sens": "retour",
+        "horaires_D": "20:43",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "05:11",
+        "Sens": "retour",
+        "horaires_D": "21:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "05:35",
+        "Sens": "retour",
+        "horaires_D": "22:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "05:45",
+        "Sens": "retour",
+        "horaires_D": "22:43",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "05:55",
+        "Sens": "retour",
+        "horaires_D": "23:50",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:05",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:15",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:23",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:31",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:39",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:47",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "06:55",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:03",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:11",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:19",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:27",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:35",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:43",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:51",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "07:59",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:07",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:15",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:23",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:31",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:43",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:47",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "08:55",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:07",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:11",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:19",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:31",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:43",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "09:55",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "10:07",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "10:19",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "10:31",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "10:43",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "10:55",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "11:07",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "11:19",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "11:31",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "11:47",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "11:55",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:11",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:19",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:35",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:43",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:51",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "12:59",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:07",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:15",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:23",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:31",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:39",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:47",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "13:55",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:03",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:11",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:19",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:27",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:35",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:43",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:51",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "14:59",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:07",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:15",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:23",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:31",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:39",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:47",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "15:55",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:03",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:11",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:19",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:27",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:35",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:43",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:51",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "16:59",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:07",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:15",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:23",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:31",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:39",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:47",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "17:55",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:03",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:11",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:19",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:27",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:35",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:43",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:51",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "18:59",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "19:07",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "19:15",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "19:23",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "19:31",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "19:41",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "20:04",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "20:11",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "20:34",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "20:46",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "21:32",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "21:45",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "22:43",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "5",
+        "horaires_L_S": "23:51",
+        "Sens": "retour",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "03:40",
+        "Sens": "aller",
+        "horaires_D": "03:40",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "04:33",
+        "Sens": "aller",
+        "horaires_D": "04:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "04:44",
+        "Sens": "aller",
+        "horaires_D": "04:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:00",
+        "Sens": "aller",
+        "horaires_D": "05:05",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:08",
+        "Sens": "aller",
+        "horaires_D": "05:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:16",
+        "Sens": "aller",
+        "horaires_D": "05:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:32",
+        "Sens": "aller",
+        "horaires_D": "06:02",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:40",
+        "Sens": "aller",
+        "horaires_D": "06:20",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:52",
+        "Sens": "aller",
+        "horaires_D": "06:38",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:56",
+        "Sens": "aller",
+        "horaires_D": "06:56",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:04",
+        "Sens": "aller",
+        "horaires_D": "07:14",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:12",
+        "Sens": "aller",
+        "horaires_D": "07:32",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:20",
+        "Sens": "aller",
+        "horaires_D": "07:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:28",
+        "Sens": "aller",
+        "horaires_D": "08:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:36",
+        "Sens": "aller",
+        "horaires_D": "08:26",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:44",
+        "Sens": "aller",
+        "horaires_D": "08:44",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:52",
+        "Sens": "aller",
+        "horaires_D": "09:02",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:00",
+        "Sens": "aller",
+        "horaires_D": "09:20",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:08",
+        "Sens": "aller",
+        "horaires_D": "09:38",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:16",
+        "Sens": "aller",
+        "horaires_D": "09:56",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:24",
+        "Sens": "aller",
+        "horaires_D": "10:14",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:32",
+        "Sens": "aller",
+        "horaires_D": "10:32",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:40",
+        "Sens": "aller",
+        "horaires_D": "10:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:48",
+        "Sens": "aller",
+        "horaires_D": "11:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:56",
+        "Sens": "aller",
+        "horaires_D": "11:26",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:04",
+        "Sens": "aller",
+        "horaires_D": "11:44",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:12",
+        "Sens": "aller",
+        "horaires_D": "12:02",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:20",
+        "Sens": "aller",
+        "horaires_D": "12:20",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:28",
+        "Sens": "aller",
+        "horaires_D": "12:38",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:36",
+        "Sens": "aller",
+        "horaires_D": "12:56",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:44",
+        "Sens": "aller",
+        "horaires_D": "13:14",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:52",
+        "Sens": "aller",
+        "horaires_D": "13:32",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:00",
+        "Sens": "aller",
+        "horaires_D": "13:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:11",
+        "Sens": "aller",
+        "horaires_D": "14:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:22",
+        "Sens": "aller",
+        "horaires_D": "14:26",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:33",
+        "Sens": "aller",
+        "horaires_D": "14:44",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:44",
+        "Sens": "aller",
+        "horaires_D": "15:02",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:55",
+        "Sens": "aller",
+        "horaires_D": "15:20",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "10:06",
+        "Sens": "aller",
+        "horaires_D": "15:38",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "10:17",
+        "Sens": "aller",
+        "horaires_D": "15:56",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "10:28",
+        "Sens": "aller",
+        "horaires_D": "16:14",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "10:39",
+        "Sens": "aller",
+        "horaires_D": "16:32",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "10:50",
+        "Sens": "aller",
+        "horaires_D": "16:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:01",
+        "Sens": "aller",
+        "horaires_D": "17:08",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:12",
+        "Sens": "aller",
+        "horaires_D": "17:26",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:23",
+        "Sens": "aller",
+        "horaires_D": "17:44",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:34",
+        "Sens": "aller",
+        "horaires_D": "18:02",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:45",
+        "Sens": "aller",
+        "horaires_D": "18:20",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:56",
+        "Sens": "aller",
+        "horaires_D": "18:38",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "12:07",
+        "Sens": "aller",
+        "horaires_D": "18:58",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "12:18",
+        "Sens": "aller",
+        "horaires_D": "19:18",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "12:29",
+        "Sens": "aller",
+        "horaires_D": "19:38",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "12:40",
+        "Sens": "aller",
+        "horaires_D": "19:58",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "12:51",
+        "Sens": "aller",
+        "horaires_D": "20:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:02",
+        "Sens": "aller",
+        "horaires_D": "21:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:13",
+        "Sens": "aller",
+        "horaires_D": "21:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:24",
+        "Sens": "aller",
+        "horaires_D": "22:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:35",
+        "Sens": "aller",
+        "horaires_D": "23:00",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:46",
+        "Sens": "aller",
+        "horaires_D": "04:20",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:57",
+        "Sens": "aller",
+        "horaires_D": "05:10",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "14:08",
+        "Sens": "aller",
+        "horaires_D": "05:35",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "14:19",
+        "Sens": "aller",
+        "horaires_D": "05:53",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "14:30",
+        "Sens": "aller",
+        "horaires_D": "06:10",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "14:41",
+        "Sens": "aller",
+        "horaires_D": "06:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "14:52",
+        "Sens": "aller",
+        "horaires_D": "06:48",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:03",
+        "Sens": "aller",
+        "horaires_D": "07:05",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:14",
+        "Sens": "aller",
+        "horaires_D": "07:23",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:25",
+        "Sens": "aller",
+        "horaires_D": "07:41",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:36",
+        "Sens": "aller",
+        "horaires_D": "07:59",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:47",
+        "Sens": "aller",
+        "horaires_D": "08:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:58",
+        "Sens": "aller",
+        "horaires_D": "08:35",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:09",
+        "Sens": "aller",
+        "horaires_D": "08:53",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:20",
+        "Sens": "aller",
+        "horaires_D": "09:11",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:28",
+        "Sens": "aller",
+        "horaires_D": "09:29",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:36",
+        "Sens": "aller",
+        "horaires_D": "09:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:44",
+        "Sens": "aller",
+        "horaires_D": "10:05",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:52",
+        "Sens": "aller",
+        "horaires_D": "10:23",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:00",
+        "Sens": "aller",
+        "horaires_D": "10:41",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:08",
+        "Sens": "aller",
+        "horaires_D": "10:59",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:16",
+        "Sens": "aller",
+        "horaires_D": "11:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:24",
+        "Sens": "aller",
+        "horaires_D": "11:35",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:32",
+        "Sens": "aller",
+        "horaires_D": "11:53",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:40",
+        "Sens": "aller",
+        "horaires_D": "12:11",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:48",
+        "Sens": "aller",
+        "horaires_D": "12:29",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:59",
+        "Sens": "aller",
+        "horaires_D": "12:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:04",
+        "Sens": "aller",
+        "horaires_D": "13:05",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:12",
+        "Sens": "aller",
+        "horaires_D": "13:23",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:20",
+        "Sens": "aller",
+        "horaires_D": "13:41",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:28",
+        "Sens": "aller",
+        "horaires_D": "13:59",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:36",
+        "Sens": "aller",
+        "horaires_D": "14:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:44",
+        "Sens": "aller",
+        "horaires_D": "14:35",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:52",
+        "Sens": "aller",
+        "horaires_D": "14:53",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:00",
+        "Sens": "aller",
+        "horaires_D": "15:11",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:08",
+        "Sens": "aller",
+        "horaires_D": "15:29",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:16",
+        "Sens": "aller",
+        "horaires_D": "15:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:27",
+        "Sens": "aller",
+        "horaires_D": "16:05",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:38",
+        "Sens": "aller",
+        "horaires_D": "16:23",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:49",
+        "Sens": "aller",
+        "horaires_D": "16:41",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "20:00",
+        "Sens": "aller",
+        "horaires_D": "16:59",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "20:30",
+        "Sens": "aller",
+        "horaires_D": "17:17",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "21:00",
+        "Sens": "aller",
+        "horaires_D": "17:35",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "21:30",
+        "Sens": "aller",
+        "horaires_D": "17:53",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "22:20",
+        "Sens": "aller",
+        "horaires_D": "18:11",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "23:00",
+        "Sens": "aller",
+        "horaires_D": "18:29",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "04:22",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "18:47",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:14",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "19:05",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:28",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "19:23",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:44",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "19:41",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "05:52",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "19:59",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:00",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "20:19",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:16",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "20:39",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:32",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "21:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:48",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "21:44",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:04",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "22:14",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:20",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "23:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:36",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "23:40",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:50",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:08",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:24",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:40",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:56",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:12",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:28",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:36",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:55",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "10:06",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "10:17",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "10:28",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "10:39",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "10:50",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:01",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:12",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:23",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:34",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:45",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "11:56",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "12:07",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "12:18",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "12:29",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "12:40",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "12:51",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:02",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:13",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:24",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:35",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:46",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "13:57",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "14:08",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "14:19",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "14:30",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "14:41",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "14:52",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:03",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:14",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:25",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:36",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:47",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "15:55",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:09",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:20",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:28",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:42",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "16:50",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:04",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:20",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:36",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:52",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:08",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:24",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:40",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:56",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:28",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:44",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:55",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "20:00",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "20:11",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "20:22",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "20:33",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "20:44",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "21:10",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "21:40",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "22:14",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "23:04",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "23:40",
+        "Sens": "retour (Mourouj4)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:20",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:36",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "06:52",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:08",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:24",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:40",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "07:56",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:12",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:28",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "08:44",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:00",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:16",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "09:32",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:08",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:24",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:40",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "17:56",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:12",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:28",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "18:44",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:00",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:16",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "6",
+        "horaires_L_S": "19:32",
+        "Sens": "retour (Montazah)",
+        "horaires_D": "",
+        "sens": ""
+    }
+]

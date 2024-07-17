@@ -1,0 +1,726 @@
+[
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "06:40",
+        "Sens": "aller",
+        "horaires_weekend": "08:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "07:10",
+        "Sens": "aller",
+        "horaires_weekend": "09:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "07:40",
+        "Sens": "aller",
+        "horaires_weekend": "10:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "08:10",
+        "Sens": "aller",
+        "horaires_weekend": "11:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "08:40",
+        "Sens": "aller",
+        "horaires_weekend": "12:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "09:10",
+        "Sens": "aller",
+        "horaires_weekend": "13:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "09:40",
+        "Sens": "aller",
+        "horaires_weekend": "14:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "10:10",
+        "Sens": "aller",
+        "horaires_weekend": "15:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "10:40",
+        "Sens": "aller",
+        "horaires_weekend": "16:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20",
+        "horaires_weekday": "11:10",
+        "Sens": "aller",
+        "horaires_weekend": "17:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "11:40",
+        "Sens": "aller",
+        "horaires_weekend": "18:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "12:10",
+        "Sens": "aller",
+        "horaires_weekend": "19:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "12:40",
+        "Sens": "aller",
+        "horaires_weekend": "20:45",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "13:10",
+        "Sens": "aller",
+        "horaires_weekend": "08:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "13:40",
+        "Sens": "aller",
+        "horaires_weekend": "09:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "14:10",
+        "Sens": "aller",
+        "horaires_weekend": "10:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "14:40",
+        "Sens": "aller",
+        "horaires_weekend": "11:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "15:10",
+        "Sens": "aller",
+        "horaires_weekend": "12:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "15:40",
+        "Sens": "aller",
+        "horaires_weekend": "13:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "16:10",
+        "Sens": "aller",
+        "horaires_weekend": "14:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "16:40",
+        "Sens": "aller",
+        "horaires_weekend": "15:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "17:10",
+        "Sens": "aller",
+        "horaires_weekend": "16:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "17:40",
+        "Sens": "aller",
+        "horaires_weekend": "17:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "18:10",
+        "Sens": "aller",
+        "horaires_weekend": "18:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "18:40",
+        "Sens": "aller",
+        "horaires_weekend": "19:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "19:10",
+        "Sens": "aller",
+        "horaires_weekend": "20:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "19:40",
+        "Sens": "aller",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "20:10",
+        "Sens": "aller",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "05:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "06:00",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "06:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "06:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "07:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "07:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "08:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "08:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "09:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "09:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "10:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "10:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "11:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "11:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "12:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "12:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "13:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "13:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "14:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "14:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "15:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "15:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "16:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "16:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "17:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "20C",
+        "horaires_weekday": "17:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "10:25",
+        "Sens": "aller",
+        "horaires_weekend": "12:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "11:05",
+        "Sens": "aller",
+        "horaires_weekend": "13:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "12:05",
+        "Sens": "aller",
+        "horaires_weekend": "15:10",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "13:10",
+        "Sens": "aller",
+        "horaires_weekend": "16:30",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "13:50",
+        "Sens": "aller",
+        "horaires_weekend": "17:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "14:40",
+        "Sens": "aller",
+        "horaires_weekend": "05:10",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "15:30",
+        "Sens": "aller",
+        "horaires_weekend": "06:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "16:20",
+        "Sens": "aller",
+        "horaires_weekend": "07:50",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "17:10",
+        "Sens": "aller",
+        "horaires_weekend": "09:10",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "18:15",
+        "Sens": "aller",
+        "horaires_weekend": "10:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "18:50",
+        "Sens": "aller",
+        "horaires_weekend": "11:50",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "05:20",
+        "Sens": "retour",
+        "horaires_weekend": "13:10",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "06:00",
+        "Sens": "retour",
+        "horaires_weekend": "14:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "06:40",
+        "Sens": "retour",
+        "horaires_weekend": "15:50",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "07:40",
+        "Sens": "retour",
+        "horaires_weekend": "17:10",
+        "sens": "retour"
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "08:30",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "09:35",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "10:25",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "11:15",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "12:10",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "13:00",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "13:50",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "14:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "15:30",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "16:20",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "17:30",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "247",
+        "horaires_weekday": "18:00",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "260",
+        "horaires_weekday": "05:00",
+        "Sens": "aller",
+        "horaires_weekend": "05:50",
+        "sens": "aller"
+    },
+    {
+        "ligneID": "260",
+        "horaires_weekday": "05:30",
+        "Sens": "aller",
+        "horaires_weekend": "06:20",
+        "sens": "aller"
+    },
+    
+    
+    {
+        "ligneID": "18C",
+        "horaires_weekday": "08:40",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "18C",
+        "horaires_weekday": "09:00",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "18C",
+        "horaires_weekday": "09:15",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "18C",
+        "horaires_weekday": "09:35",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "18C",
+        "horaires_weekday": "11:15",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": "18C",
+        "horaires_weekday": "11:20",
+        "Sens": "retour",
+        "horaires_weekend": "",
+        "sens": ""
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "10:30",
+        "Sens": "aller",
+        "horaires_weekend": "14:15",
+        "sens": "aller"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "04:55",
+        "Sens": "retour",
+        "horaires_weekend": "14:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "05:15",
+        "Sens": "retour",
+        "horaires_weekend": "14:50",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "05:40",
+        "Sens": "retour",
+        "horaires_weekend": "15:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "06:00",
+        "Sens": "retour",
+        "horaires_weekend": "16:05",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "06:25",
+        "Sens": "retour",
+        "horaires_weekend": "16:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "06:45",
+        "Sens": "retour",
+        "horaires_weekend": "17:20",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "07:10",
+        "Sens": "retour",
+        "horaires_weekend": "18:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "07:30",
+        "Sens": "retour",
+        "horaires_weekend": "18:45",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "07:55",
+        "Sens": "retour",
+        "horaires_weekend": "19:15",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "08:15",
+        "Sens": "retour",
+        "horaires_weekend": "20:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "08:40",
+        "Sens": "retour",
+        "horaires_weekend": "21:00",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "09:00",
+        "Sens": "retour",
+        "horaires_weekend": "21:30",
+        "sens": "retour"
+    },
+    {
+        "ligneID": 261,
+        "horaires_weekday": "09:25",
+        "Sens": "retour",
+        "horaires_weekend": "22:20",
+        "sens": "retour"
+    }
+
+]

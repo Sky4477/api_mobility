@@ -1,0 +1,65 @@
+[
+    {
+        "ligne": "10",
+        "destination": "Cite Zitouna-Marché de gros",
+        "premier_depart_station": "05:00",
+        "premier_depart_banlieue": "06:15",
+        "dernier_depart_station": "18:15",
+        "dernier_depart_banlieue": "19:00",
+        "Fréquence": 45
+    },
+    {
+        "ligne": "25",
+        "destination": "Ferch Annabi",
+        "premier_depart_station": "04:20",
+        "premier_depart_banlieue": "05:20",
+        "dernier_depart_station": "21:20",
+        "dernier_depart_banlieue": "22:20",
+        "Fréquence": 40
+    },
+    {
+        "ligne": "25C",
+        "destination": "Nassen 1",
+        "premier_depart_station": "06:15",
+        "premier_depart_banlieue": "06:45",
+        "dernier_depart_station": "20:00",
+        "dernier_depart_banlieue": "19:10",
+        "Fréquence": 20
+    },
+    {
+        "ligne": "25A",
+        "destination": "Cité Riadh",
+        "premier_depart_station": "04:30",
+        "premier_depart_banlieue": "05:10",
+        "dernier_depart_station": "20:00",
+        "dernier_depart_banlieue": "20:00",
+        "Fréquence": 40
+    },
+    {
+        "ligne": "25B",
+        "destination": "Bir Jedid 2",
+        "premier_depart_station": "05:00",
+        "premier_depart_banlieue": "06:00",
+        "dernier_depart_station": "16:00",
+        "dernier_depart_banlieue": "20:00",
+        "Fréquence": 40
+    },
+    {
+        "ligne": "25D",
+        "destination": "Cite Essalem",
+        "premier_depart_station": "06:20",
+        "premier_depart_banlieue": "05:50",
+        "dernier_depart_station": "19:50",
+        "dernier_depart_banlieue": "21:20",
+        "Fréquence": 160
+    },
+    {
+        "ligne": "71",
+        "destination": "Dépot Ezzahrouni",
+        "premier_depart_station": "05:40",
+        "premier_depart_banlieue": "06:35",
+        "dernier_depart_station": "17:30",
+        "dernier_depart_banlieue": "20:45",
+        "Fréquence": 35
+    }
+]

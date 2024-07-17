@@ -1,0 +1,880 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.314064398753032,
+                    36.85468500041247
+                ]
+            },
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "Longitude": "10.314064398626215",
+                "n° de station": "24",
+                "Latitude": 36.8546850004995,
+                "nom de station": "CITE  MOHAMED ALI",
+                "n° de la ligne": "18C Retour",
+                "id": 13
+                
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.312878192074947,
+                    36.84905908181122
+                ]
+            },
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "Longitude": "10.312878191689379",
+                "n° de station": "25",
+                "Latitude": 36.84905908167926,
+                "nom de station": "YASSMINA1",
+                "n° de la ligne": "18C Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.314402133751514,
+                    36.84719781342841
+                ]
+            },
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "Longitude": "10.314402133335534",
+                "n° de station": "26",
+                "Latitude": 36.847197813518775,
+                "nom de station": "YASSMINA 2",
+                "n° de la ligne": "18C Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316880494439317,
+                    36.84754982336568
+                ]
+            },
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "Longitude": "10.316880494465295",
+                "n° de station": "27",
+                "Latitude": 36.84754982298158,
+                "nom de station": "BYRSA1",
+                "n° de la ligne": "18C Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.318210870535268,
+                    36.84900077246772
+                ]
+            },
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "Longitude": "10.318210870136681",
+                "n° de station": "28",
+                "Latitude": 36.849000772111594,
+                "nom de station": "BIRSA 2",
+                "n° de la ligne": "18C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.327405483376424,
+                    36.853636756930825
+                ]
+            },
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "Longitude": "10.327405482967151",
+                "n° de station": "29",
+                "Latitude": 36.85363675653193,
+                "nom de station": "CARTHAGE HANNIBAL",
+                "n° de la ligne": "18C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.327405483376424,
+                    36.853636756930825
+                ]
+            },
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "Longitude": "10.327405482967151",
+                "n° de station": "1",
+                "Latitude": 36.85363675653193,
+                "nom de station": "CARTHAGE HANNIBAL",
+                "n° de la ligne": "18C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.318210870535268,
+                    36.84900077246772
+                ]
+            },
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "Longitude": "10.318210870136681",
+                "n° de station": "4",
+                "Latitude": 36.849000772111594,
+                "nom de station": "BIRSA 2",
+                "n° de la ligne": "18C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316880494439317,
+                    36.84754982336568
+                ]
+            },
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "Longitude": "10.316880494465295",
+                "n° de station": "5",
+                "Latitude": 36.84754982298158,
+                "nom de station": "BYRSA1",
+                "n° de la ligne": "18C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.314402133751514,
+                    36.84719781342841
+                ]
+            },
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "Longitude": "10.314402133335534",
+                "n° de station": "6",
+                "Latitude": 36.847197813518775,
+                "nom de station": "YASSMINA 2",
+                "n° de la ligne": "18C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.312878192074947,
+                    36.84905908181122
+                ]
+            },
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "Longitude": "10.312878191689379",
+                "n° de station": "7",
+                "Latitude": 36.84905908167926,
+                "nom de station": "YASSMINA1",
+                "n° de la ligne": "18C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.314064398753032,
+                    36.85468500041247
+                ]
+            },
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "Longitude": "10.314064398626215",
+                "n° de station": "8",
+                "Latitude": 36.8546850004995,
+                "nom de station": "CIT\ufffd MOHAMED ALI",
+                "n° de la ligne": "18C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.304358600469072,
+                    36.83785930995924
+                ]
+            },
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "Longitude": "10.304358600697014",
+                "n° de station": "21",
+                "Latitude": 36.83785931001888,
+                "nom de station": "FOIRE LE KRAM",
+                "n° de la ligne": "47 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.306881442524627,
+                    36.83886591123286
+                ]
+            },
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "Longitude": "10.306881442884333",
+                "n° de station": "22",
+                "Latitude": 36.83886591122104,
+                "nom de station": "5 DECEMBRE 1",
+                "n° de la ligne": "47 Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.313136131127578,
+                    36.84157402711969
+                ]
+            },
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "Longitude": "10.313136131007923",
+                "n° de station": "23",
+                "Latitude": 36.84157402682374,
+                "nom de station": "5 DECEMBRE 2",
+                "n° de la ligne": "47 Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.317341387994702,
+                    36.83892762720831
+                ]
+            },
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "Longitude": "10.317341388144996",
+                "n° de station": "24",
+                "Latitude": 36.838927626878835,
+                "nom de station": "SALAMBO",
+                "n° de la ligne": "47 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.313704758967503,
+                    36.829432104807836
+                ]
+            },
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "Longitude": "10.313704758909807",
+                "n° de station": "25",
+                "Latitude": 36.829432105233785,
+                "nom de station": "KHEREDINNE",
+                "n° de la ligne": "47 Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316912234212282,
+                    36.836420313746544
+                ]
+            },
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "Longitude": "10.316912234047777",
+                "n° de station": "26",
+                "Latitude": 36.836420314016,
+                "nom de station": "LE KRAM",
+                "n° de la ligne": "47 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316912234212282,
+                    36.836420313746544
+                ]
+            },
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "Longitude": "10.316912234047777",
+                "n° de station": "5",
+                "Latitude": 36.836420314016,
+                "nom de station": "LE KRAM",
+                "n° de la ligne": "47 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.313704758967503,
+                    36.829432104807836
+                ]
+            },
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "Longitude": "10.313704758909807",
+                "n° de station": "6",
+                "Latitude": 36.829432105233785,
+                "nom de station": "KHEREDINNE",
+                "n° de la ligne": "47 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.317341387994702,
+                    36.83892762720831
+                ]
+            },
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "Longitude": "10.317341388144996",
+                "n° de station": "7",
+                "Latitude": 36.838927626878835,
+                "nom de station": "SALAMBO",
+                "n° de la ligne": "47 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.313136131127578,
+                    36.84157402711969
+                ]
+            },
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "Longitude": "10.313136131007923",
+                "n° de station": "8",
+                "Latitude": 36.84157402682374,
+                "nom de station": "5 DECEMBRE",
+                "n° de la ligne": "47 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.306881442524627,
+                    36.83886591123286
+                ]
+            },
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "Longitude": "10.306881442884333",
+                "n° de station": "9",
+                "Latitude": 36.83886591122104,
+                "nom de station": "5 DECEMBRE",
+                "n° de la ligne": "47 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.304358600469072,
+                    36.83785930995924
+                ]
+            },
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "Longitude": "10.304358600697014",
+                "n° de station": "10",
+                "Latitude": 36.83785931001888,
+                "nom de station": "FOIRE LE KRAM",
+                "n° de la ligne": "47 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.314064398753032,
+                    36.85468500041247
+                ]
+            },
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "Longitude": "10.314064398626215",
+                "n° de station": "14",
+                "Latitude": 36.8546850004995,
+                "nom de station": "CITE MOHAMED ALI",
+                "n° de la ligne": "20C Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.312878192074947,
+                    36.84905908181122
+                ]
+            },
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "Longitude": "10.312878191689379",
+                "n° de station": "15",
+                "Latitude": 36.84905908167926,
+                "nom de station": "YASSMINA1",
+                "n° de la ligne": "20C Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.314402133751514,
+                    36.84719781342841
+                ]
+            },
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "Longitude": "10.314402133335534",
+                "n° de station": "16",
+                "Latitude": 36.847197813518775,
+                "nom de station": "YASSMINA 2",
+                "n° de la ligne": "20C Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316880494439317,
+                    36.84754982336568
+                ]
+            },
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "Longitude": "10.316880494465295",
+                "n° de station": "17",
+                "Latitude": 36.84754982298158,
+                "nom de station": "BYRSA1",
+                "n° de la ligne": "20C Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.318210870535268,
+                    36.84900077246772
+                ]
+            },
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "Longitude": "10.318210870136681",
+                "n° de station": "18",
+                "Latitude": 36.849000772111594,
+                "nom de station": "BIRSA 2",
+                "n° de la ligne": "20C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.327405483376424,
+                    36.853636756930825
+                ]
+            },
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "Longitude": "10.327405482967151",
+                "n° de station": "19",
+                "Latitude": 36.85363675653193,
+                "nom de station": "CARTHAGE HANNIBAL",
+                "n° de la ligne": "20C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.327405483376424,
+                    36.853636756930825
+                ]
+            },
+            "type": "Feature",
+            "id": 31,
+            "properties": {
+                "Longitude": "10.327405482967151",
+                "n° de station": "1",
+                "Latitude": 36.85363675653193,
+                "nom de station": "CARTHAGE HANNIBAL",
+                "n° de la ligne": "20C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.318210870535268,
+                    36.84900077246772
+                ]
+            },
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "Longitude": "10.318210870136681",
+                "n° de station": "4",
+                "Latitude": 36.849000772111594,
+                "nom de station": "BIRSA 2",
+                "n° de la ligne": "20C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316880494439317,
+                    36.84754982336568
+                ]
+            },
+            "type": "Feature",
+            "id": 33,
+            "properties": {
+                "Longitude": "10.316880494465295",
+                "n° de station": "5",
+                "Latitude": 36.84754982298158,
+                "nom de station": "BYRSA1",
+                "n° de la ligne": "20C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.314402133751514,
+                    36.84719781342841
+                ]
+            },
+            "type": "Feature",
+            "id": 34,
+            "properties": {
+                "Longitude": "10.314402133335534",
+                "n° de station": "6",
+                "Latitude": 36.847197813518775,
+                "nom de station": "YASSMINA 2",
+                "n° de la ligne": "20C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.312878192074947,
+                    36.84905908181122
+                ]
+            },
+            "type": "Feature",
+            "id": 35,
+            "properties": {
+                "Longitude": "10.312878191689379",
+                "n° de station": "7",
+                "Latitude": 36.84905908167926,
+                "nom de station": "YASSMINA1",
+                "n° de la ligne": "20C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.314064398753032,
+                    36.85468500041247
+                ]
+            },
+            "type": "Feature",
+            "id": 36,
+            "properties": {
+                "Longitude": "10.314064398626215",
+                "n° de station": "8",
+                "Latitude": 36.8546850004995,
+                "nom de station": "CITE MOHAMED ALI",
+                "n° de la ligne": "20C Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316912234212282,
+                    36.836420313746544
+                ]
+            },
+            "type": "Feature",
+            "id": 37,
+            "properties": {
+                "Longitude": "10.316912234047777",
+                "n° de station": "5",
+                "Latitude": 36.836420314016,
+                "nom de station": "LE KRAM",
+                "n° de la ligne": "247 Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.319358409063398,
+                    36.840713610644684
+                ]
+            },
+            "type": "Feature",
+            "id": 38,
+            "properties": {
+                "Longitude": "10.319358409324195",
+                "n° de station": "6",
+                "Latitude": 36.84071361062527,
+                "nom de station": "CARTHAGE SALAMBO",
+                "n° de la ligne": "247 Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.323307067767018,
+                    36.84592713163187
+                ]
+            },
+            "type": "Feature",
+            "id": 39,
+            "properties": {
+                "Longitude": "10.323307067592395",
+                "n° de station": "7",
+                "Latitude": 36.8459271316769,
+                "nom de station": "CARTHAGE BYRSA",
+                "n° de la ligne": "247 Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.327017905252148,
+                    36.84950194395958
+                ]
+            },
+            "type": "Feature",
+            "id": 40,
+            "properties": {
+                "Longitude": "10.327017905074172",
+                "n° de station": "8",
+                "Latitude": 36.84950194408917,
+                "nom de station": "CARTHAGE DERMECH",
+                "n° de la ligne": "247 Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32985121126444,
+                    36.853008268416886
+                ]
+            },
+            "type": "Feature",
+            "id": 41,
+            "properties": {
+                "Longitude": "10.329851210990455",
+                "n° de station": "9",
+                "Latitude": 36.85300826841002,
+                "nom de station": "CARTHAGE HANNIBAL",
+                "n° de la ligne": "247 Aller",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32985121126444,
+                    36.853008268416886
+                ]
+            },
+            "type": "Feature",
+            "id": 42,
+            "properties": {
+                "Longitude": "10.329851210990455",
+                "n° de station": "11",
+                "Latitude": 36.85300826841002,
+                "nom de station": "CARTHAGE HANNIBAL",
+                "n° de la ligne": "257 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.327017905252148,
+                    36.84950194395958
+                ]
+            },
+            "type": "Feature",
+            "id": 43,
+            "properties": {
+                "Longitude": "10.327017905074172",
+                "n° de station": "12",
+                "Latitude": 36.84950194408917,
+                "nom de station": "CARTHAGE DERMECH",
+                "n° de la ligne": "258 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.323307067767018,
+                    36.84592713163187
+                ]
+            },
+            "type": "Feature",
+            "id": 44,
+            "properties": {
+                "Longitude": "10.323307067592395",
+                "n° de station": "13",
+                "Latitude": 36.8459271316769,
+                "nom de station": "CARTHAGE BYRSA",
+                "n° de la ligne": "259 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.319358409063398,
+                    36.840713610644684
+                ]
+            },
+            "type": "Feature",
+            "id": 45,
+            "properties": {
+                "Longitude": "10.319358409324195",
+                "n° de station": "14",
+                "Latitude": 36.84071361062527,
+                "nom de station": "CARTHAGE SALAMBO",
+                "n° de la ligne": "260 Retour",
+                "id": 13
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316912234212282,
+                    36.836420313746544
+                ]
+            },
+            "type": "Feature",
+            "id": 46,
+            "properties": {
+                "Longitude": "10.316912234047777",
+                "n° de station": "15",
+                "Latitude": 36.836420314016,
+                "nom de station": "LE KRAM",
+                "n° de la ligne": "261 Retour",
+                "id": 13
+            }
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "type": "FeatureCollection",
+    "name": "parking",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id_0": 0,
+                "x": 535403,
+                "y": 393129
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.297577577041478,
+                    36.840386437779379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id_0": 1,
+                "x": 535812,
+                "y": 393103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.302159713173806,
+                    36.840139523761444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id_0": 2,
+                "x": 535544,
+                "y": 392799
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.299144473344477,
+                    36.837406269512073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id_0": 3,
+                "x": 535883,
+                "y": 392518
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.302932448726414,
+                    36.834860402809255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id_0": 4,
+                "x": 535723,
+                "y": 392495
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.301129875223079,
+                    36.834663771950524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id_0": 5,
+                "x": 537639,
+                "y": 394607
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.322720763551045,
+                    36.853629463071698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id_0": 6,
+                "x": 538104,
+                "y": 394229
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.327917088754445,
+                    36.850198338348086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id_0": 7,
+                "x": 537958,
+                "y": 394159
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.326271633385451,
+                    36.849571987166698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id_0": 8,
+                "x": 538004,
+                "y": 394230
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.326791551574821,
+                    36.85021662589687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id_0": 9,
+                "x": 538182,
+                "y": 394957
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.328828373930822,
+                    36.856763287186517
+                ]
+            }
+        }
+    ]
+}

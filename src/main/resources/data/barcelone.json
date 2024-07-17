@@ -1,0 +1,158 @@
+[
+    {
+        "Ligne": "9B",
+        "Destination": "Cité Thameur",
+        "Vers": "06:00",
+        "Vers__2": "20:10",
+        "Fréquence": 30
+    },
+    {
+        "Ligne": "10B",
+        "Destination": "Nouvelle medina",
+        "Vers": "05:35",
+        "Vers__2": "18:20",
+        "Fréquence": 90
+    },
+    {
+        "Ligne": "10C",
+        "Destination": "Yasminet",
+        "Vers": "05:55",
+        "Vers__2": "18:00",
+        "Fréquence": 140
+    },
+    {
+        "Ligne": 17,
+        "Destination": "Bac Terminus",
+        "Vers": "05:00",
+        "Vers__2": "19:10",
+        "Fréquence": 30
+    },
+    {
+        "Ligne": 19,
+        "Destination": "Megrine-Coteaux",
+        "Vers": "04:15",
+        "Vers__2": "22:20",
+        "Fréquence": 60
+    },
+    {
+        "Ligne": "19A",
+        "Destination": "Megrine Chaker",
+        "Vers": "05:50",
+        "Vers__2": "20:30",
+        "Fréquence": 30
+    },
+    {
+        "Ligne": "19C",
+        "Destination": "Nouvelle medina 1",
+        "Vers": "04:30",
+        "Vers__1": "05:00",
+        "Vers__2": "22:10",
+        "Fréquence": 20
+    },
+    {
+        "Ligne": "19C/",
+        "Destination": "Nouvelle Medina 1",
+        "Vers": "05:50",
+        "Vers__1": "06:35",
+        "Vers__2": "17:30",
+        "Fréquence": 95
+    },
+    {
+        "Ligne": "19D",
+        "Destination": "Radès forêt",
+        "Vers": "06:45",
+        "Vers__1": "06:00",
+        "Vers__2": "18:25",
+        "Fréquence": 70
+    },
+    {
+        "Ligne": "19E",
+        "Destination": "Cité Chaker",
+        "Vers": "05:35",
+        "Vers__1": "06:05",
+        "Vers__2": "18:35",
+        "Fréquence": 30
+    },
+    {
+        "Ligne": 22,
+        "Destination": "Centre traimotologie des grands brulés",
+        "Vers": "03:10",
+        "Vers__1": "03:40",
+        "Vers__2": "00:25",
+        "Vers__2": "01:00",
+        "Fréquence": 40
+    },
+    {
+        "Ligne": "22A",
+        "Destination": "Lycée Yassminet",
+        "Vers": "06:10",
+        "Vers__1": "06:40",
+        "Vers__2": "18:10",
+        "Fréquence": 85
+    },
+    {
+        "Ligne": 26,
+        "Destination": "Station de Bus Mornag",
+        "Vers": "04:30",
+        "Vers__1": "05:30",
+        "Vers__2": "22:30",
+        "Fréquence": 30
+    },
+    {
+        "Ligne": "26A",
+        "Destination": "Station de Bus Mornag-B jardga",
+        "Vers": "05:00",
+        "Vers__1": "04:45",
+        "Vers__2": "22:30",
+        "Fréquence": 30
+    },
+    {
+        "Ligne": 29,
+        "Destination": "Bellevue",
+        "Vers": "06:30",
+        "Vers__1": "07:00",
+        "Vers__2": "19:00",
+        "Fréquence": 60
+    },
+    {
+        "Ligne": "59A",
+        "Destination": "Mourouj 1",
+        "Vers": "06:00",
+        "Vers__1": "06:30",
+        "Vers__2": "20:10",
+        "Fréquence": 40
+    },
+    {
+        "Ligne": 60,
+        "Destination": "Ibn Sina",
+        "Vers": "05:00",
+        "Vers__1": "05:30",
+        "Vers__2": "22:30",
+        "Fréquence": 30
+    },
+    {
+        "Ligne": 75,
+        "Destination": "Boumhal",
+        "Vers": "05:30",
+        "Vers__1": "06:30",
+        "Vers__2": "19:30",
+        "Fréquence": 60
+    },
+    {
+        "Ligne": 82,
+        "Destination": "Boumhal",
+        "Vers": "05:10",
+        "Vers__1": "06:00",
+        "Vers__2": "18:00",
+        "Vers__2": "19:00",
+        "Fréquence": 60
+    },
+    {
+        "Ligne": 714,
+        "Destination": "Mosqué El Houda-ville midéteranné",
+        "Vers": "05:50",
+        "Vers__1": "06:30",
+        "Vers__2": "20:00",
+        "Fréquence": 50
+    }
+]

@@ -15,4 +15,5 @@ public interface AlertService {
     Alert updateAlert(Long id, Alert alert);
 
     void deleteAlert(Long id);
+
 }
